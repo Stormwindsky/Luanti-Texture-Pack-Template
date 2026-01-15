@@ -1,0 +1,3 @@
+PLEASE NOTE THAT YOU MAY DELETE THIS .txt FILE AFTER READING IT.
+
+Basically, all other folders and files except default, screenshot.png, and texture_pack.conf can be deleted, as these are folders for when you want your texture pack to support other textures that come from mods.
